@@ -28,7 +28,7 @@ cd 6-guineapig
 open index.html
 ```
 
-[Live Site On Github]()
+[Live Site On Github](http://megancford.github.io/NSS-SPA-6-GuineaPig)
 
 
 ![screenshot](guinea-pig-screenshot.jpg)
