@@ -1,0 +1,35 @@
+.blue {
+  color: blue;
+}
+
+.large {
+  font-size: 3em;
+}
+
+.bordered {
+  border: 3px solid orange;
+}
+
+.rounded {
+  border-radius: 15px;
+}
+
+
+/*The first section's text should be bold.*/
+section:nth-of-type(3) {
+  font-weight: bold;
+}
+
+
+/*The last section's text should be bold and italicized.*/
+section:last-of-type {
+  font-weight: bold;
+  font-style: italic;
+}
+
+/*Make the buttons stop appearing next to each other as inline elements. Change them into block elements.*/
+
+button {
+  display: block;
+}
+
